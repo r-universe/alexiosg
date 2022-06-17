@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "parma"]
+	path = parma
+	url = https://github.com/alexiosg/parma
+	shallow = true
+	registered = true
+[submodule "rmgarch"]
+	path = rmgarch
+	url = https://github.com/alexiosg/rmgarch
+	shallow = true
+	registered = true
+[submodule "rugarch"]
+	path = rugarch
+	url = https://github.com/alexiosg/rugarch
+	shallow = true
+	registered = true

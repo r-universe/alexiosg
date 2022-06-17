@@ -1,0 +1,14 @@
+[
+  {
+    "package": "parma",
+    "oncran": true
+  },
+  {
+    "package": "rmgarch",
+    "oncran": true
+  },
+  {
+    "package": "rugarch",
+    "oncran": true
+  }
+]
