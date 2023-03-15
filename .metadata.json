@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "rugarch",
+    "package": "rmgarch",
     "oncran": true
   },
   {
-    "package": "rmgarch",
+    "package": "rugarch",
     "oncran": true
   }
 ]
