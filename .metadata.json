@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "Rsolnp",
+    "oncran": true
+  },
+  {
     "package": "rugarch",
     "oncran": true
   }
