@@ -8,13 +8,13 @@
 	url = https://github.com/alexiosg/parma
 	shallow = true
 	registered = true
-[submodule "rmgarch"]
-	path = rmgarch
-	url = https://github.com/alexiosg/rmgarch
-	shallow = true
-	registered = true
 [submodule "rugarch"]
 	path = rugarch
 	url = https://github.com/alexiosg/rugarch
+	shallow = true
+	registered = true
+[submodule "rmgarch"]
+	path = rmgarch
+	url = https://github.com/alexiosg/rmgarch
 	shallow = true
 	registered = true
