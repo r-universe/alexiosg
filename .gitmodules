@@ -23,3 +23,8 @@
 	url = https://github.com/alexiosg/rugarch
 	shallow = true
 	registered = true
+[submodule "spd"]
+	path = spd
+	url = https://github.com/cran/spd
+	shallow = true
+	registered = true
